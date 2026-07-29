@@ -9,5 +9,5 @@
   ```
 
 # How do i use this and what is the purpose for it?
-- The purpose of this project is to expand my knowledge of reading and writing bytes in x86 assembly.  
+- The purpose of this project was to expand my knowledge of reading and writing bytes in x86 assembly.  
   This program can decompile a binary on your local machine without requiring any external dependencies.
