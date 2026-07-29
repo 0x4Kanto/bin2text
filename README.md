@@ -8,6 +8,5 @@
   gcc .\compiler.obj -o compiler.exe
   ```
 
-# How do i use this and what is the purpose for it?
-- The purpose of this project was to expand my knowledge of reading and writing bytes in x86 assembly.  
-  This program can decompile a binary on your local machine without requiring any external dependencies.
+# What is the purpose for this program?
+- The purpose of this project was to expand my knowledge of reading and writing bytes in x86 assembly.
